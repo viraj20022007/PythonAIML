@@ -1,0 +1,1281 @@
+------------------------------------------------------------
+Marvellous Infosystems Process Log
+Created on : 2026-07-31_00-03-55
+------------------------------------------------------------
+
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+PID : 188
+Name : 
+Username : None
+------------------------------------------------------------
+PID : 232
+Name : Registry
+Username : None
+------------------------------------------------------------
+PID : 808
+Name : smss.exe
+Username : None
+------------------------------------------------------------
+PID : 1248
+Name : nvcontainer.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 1328
+Name : csrss.exe
+Username : None
+------------------------------------------------------------
+PID : 1332
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 1436
+Name : wininit.exe
+Username : None
+------------------------------------------------------------
+PID : 1512
+Name : services.exe
+Username : None
+------------------------------------------------------------
+PID : 1532
+Name : LsaIso.exe
+Username : None
+------------------------------------------------------------
+PID : 1540
+Name : lsass.exe
+Username : None
+------------------------------------------------------------
+PID : 1568
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 1628
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 1672
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 1684
+Name : CrossDeviceService.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 1704
+Name : fontdrvhost.exe
+Username : None
+------------------------------------------------------------
+PID : 1764
+Name : WUDFHost.exe
+Username : None
+------------------------------------------------------------
+PID : 1836
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 1876
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 1920
+Name : WUDFHost.exe
+Username : None
+------------------------------------------------------------
+PID : 1964
+Name : WUDFHost.exe
+Username : None
+------------------------------------------------------------
+PID : 2036
+Name : WUDFHost.exe
+Username : None
+------------------------------------------------------------
+PID : 2080
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2088
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2120
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2132
+Name : unsecapp.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 2144
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2172
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2184
+Name : WmiPrvSE.exe
+Username : None
+------------------------------------------------------------
+PID : 2348
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2364
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2428
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2464
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 2536
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2580
+Name : IntelCpHDCPSvc.exe
+Username : None
+------------------------------------------------------------
+PID : 2596
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2604
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2624
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2640
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2788
+Name : ChatGPT Classic.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 2868
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 2884
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 2956
+Name : CrossDeviceResume.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 3036
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3056
+Name : mc-extn-browserhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 3116
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3148
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 3304
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3312
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3448
+Name : RtkAudUService64.exe
+Username : None
+------------------------------------------------------------
+PID : 3464
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3600
+Name : nvcontainer.exe
+Username : None
+------------------------------------------------------------
+PID : 3628
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3644
+Name : NVDisplay.Container.exe
+Username : None
+------------------------------------------------------------
+PID : 3676
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3696
+Name : MpDefenderCoreService.exe
+Username : None
+------------------------------------------------------------
+PID : 3700
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3704
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3720
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3760
+Name : WUDFHost.exe
+Username : None
+------------------------------------------------------------
+PID : 3836
+Name : MemCompression
+Username : None
+------------------------------------------------------------
+PID : 3880
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3908
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 3916
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4000
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4024
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 4032
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4104
+Name : BraveCrashHandler.exe
+Username : None
+------------------------------------------------------------
+PID : 4120
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4128
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4248
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4252
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4292
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4316
+Name : WsToastNotification.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 4324
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4360
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4448
+Name : LenovoVantage-(GenericMessagingAddin).exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 4472
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4500
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4612
+Name : AppActions.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 4640
+Name : spoolsv.exe
+Username : None
+------------------------------------------------------------
+PID : 4668
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4756
+Name : mc-fw-host.exe
+Username : None
+------------------------------------------------------------
+PID : 4784
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4788
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4888
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 4956
+Name : OneDrive.Sync.Service.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 4972
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 5084
+Name : GameInputRedistService.exe
+Username : None
+------------------------------------------------------------
+PID : 5092
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 5100
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 5108
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 5144
+Name : MsMpEng.exe
+Username : None
+------------------------------------------------------------
+PID : 5240
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5256
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 5272
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5336
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5352
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 5448
+Name : ctfmon.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5564
+Name : XtuService.exe
+Username : None
+------------------------------------------------------------
+PID : 5596
+Name : LenovoUtilityService.exe
+Username : None
+------------------------------------------------------------
+PID : 5608
+Name : AISControlService.exe
+Username : None
+------------------------------------------------------------
+PID : 5620
+Name : ipfsvc.exe
+Username : None
+------------------------------------------------------------
+PID : 5628
+Name : IntelAudioService.exe
+Username : None
+------------------------------------------------------------
+PID : 5636
+Name : WMIRegistrationService.exe
+Username : None
+------------------------------------------------------------
+PID : 5668
+Name : WhatsApp.Root.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5684
+Name : NahimicService.exe
+Username : None
+------------------------------------------------------------
+PID : 5712
+Name : ipf_uf.exe
+Username : None
+------------------------------------------------------------
+PID : 5740
+Name : PushNotificationsLongRunningTask.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5792
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 5820
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 6056
+Name : armsvc.exe
+Username : None
+------------------------------------------------------------
+PID : 6064
+Name : WsNativePushService.exe
+Username : None
+------------------------------------------------------------
+PID : 6072
+Name : jhi_service.exe
+Username : None
+------------------------------------------------------------
+PID : 6104
+Name : LenovoVantageService.exe
+Username : None
+------------------------------------------------------------
+PID : 6140
+Name : RtkBtManServ.exe
+Username : None
+------------------------------------------------------------
+PID : 6400
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 6444
+Name : NgcIso.exe
+Username : None
+------------------------------------------------------------
+PID : 6552
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 6936
+Name : mysqld.exe
+Username : None
+------------------------------------------------------------
+PID : 6952
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 6964
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 6980
+Name : ChatGPT Classic.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 7364
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 7604
+Name : mysqld.exe
+Username : None
+------------------------------------------------------------
+PID : 7620
+Name : conhost.exe
+Username : None
+------------------------------------------------------------
+PID : 7644
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 7960
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 8372
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 8472
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 8676
+Name : WmiPrvSE.exe
+Username : None
+------------------------------------------------------------
+PID : 8860
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 8888
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 8992
+Name : unsecapp.exe
+Username : None
+------------------------------------------------------------
+PID : 9248
+Name : sihost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 9832
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 9920
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 9980
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 10060
+Name : UserOOBEBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 10152
+Name : IntelGraphicsSoftware.Service.exe
+Username : None
+------------------------------------------------------------
+PID : 10160
+Name : gamingservices.exe
+Username : None
+------------------------------------------------------------
+PID : 10172
+Name : gamingservicesnet.exe
+Username : None
+------------------------------------------------------------
+PID : 10180
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 10208
+Name : BraveCrashHandler64.exe
+Username : None
+------------------------------------------------------------
+PID : 10260
+Name : NahimicSvc64.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 10276
+Name : AppProvisioningPlugin.exe
+Username : None
+------------------------------------------------------------
+PID : 10344
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 10372
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 10384
+Name : mscopilot.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 10420
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 10456
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 10604
+Name : AggregatorHost.exe
+Username : None
+------------------------------------------------------------
+PID : 10740
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 10764
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 10804
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 10852
+Name : NahimicAPO4Volume.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11132
+Name : PresentMonService.exe
+Username : None
+------------------------------------------------------------
+PID : 11160
+Name : ChatGPT Classic.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11240
+Name : conhost.exe
+Username : None
+------------------------------------------------------------
+PID : 11464
+Name : GameInputSvc.exe
+Username : None
+------------------------------------------------------------
+PID : 11508
+Name : taskhostw.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11540
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 11560
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 11680
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11736
+Name : uihost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11748
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11804
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 11880
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 12092
+Name : NisSrv.exe
+Username : None
+------------------------------------------------------------
+PID : 12184
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 12460
+Name : ApplicationFrameHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 12568
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 12604
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 12828
+Name : LenovoVantage-(VantageCoreAddin).exe
+Username : None
+------------------------------------------------------------
+PID : 12840
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 12912
+Name : GameInputSvc.exe
+Username : None
+------------------------------------------------------------
+PID : 13056
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 13140
+Name : csrss.exe
+Username : None
+------------------------------------------------------------
+PID : 13196
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 13308
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 13456
+Name : AdobeCollabSync.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 13528
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 13556
+Name : SecurityHealthSystray.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 13696
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 13980
+Name : mscopilot.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14092
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14160
+Name : NVIDIA Web Helper.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14204
+Name : OpenConsole.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14372
+Name : python.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14520
+Name : Locator.exe
+Username : None
+------------------------------------------------------------
+PID : 14600
+Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14720
+Name : mc-fw-host.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14764
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 14776
+Name : winlogon.exe
+Username : None
+------------------------------------------------------------
+PID : 14924
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 15212
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 15280
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 15740
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 15876
+Name : GameInputRedistService.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 16100
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 16236
+Name : DataExchangeHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 16572
+Name : Nahimic3.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 16596
+Name : ShellHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 16624
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 16920
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 17064
+Name : ChatGPT Classic.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 17148
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 17152
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 17360
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 17388
+Name : WmiPrvSE.exe
+Username : None
+------------------------------------------------------------
+PID : 17424
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 17460
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 17900
+Name : LenovoVantage-(GenericTelemetryAddin).exe
+Username : None
+------------------------------------------------------------
+PID : 17972
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18036
+Name : LenovoVantage-(LenovoGamingSystemAddin).exe
+Username : None
+------------------------------------------------------------
+PID : 18068
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18156
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18192
+Name : SearchHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18212
+Name : backgroundTaskHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18240
+Name : mc-sustainability.exe
+Username : None
+------------------------------------------------------------
+PID : 18440
+Name : RtkAudUService64.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18452
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 18500
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18580
+Name : WmiApSrv.exe
+Username : None
+------------------------------------------------------------
+PID : 18628
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18696
+Name : SecurityHealthService.exe
+Username : None
+------------------------------------------------------------
+PID : 18776
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 18944
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 19120
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 19396
+Name : mc-neo-host.exe
+Username : None
+------------------------------------------------------------
+PID : 19400
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 19424
+Name : OfficeClickToRun.exe
+Username : None
+------------------------------------------------------------
+PID : 19464
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 19476
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 19664
+Name : dwm.exe
+Username : None
+------------------------------------------------------------
+PID : 19832
+Name : cmd.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 19964
+Name : dllhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 20452
+Name : cmd.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 20516
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 20644
+Name : browserhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 20696
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 20860
+Name : FnHotkeyUtility.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 20864
+Name : WidgetService.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 21100
+Name : EABackgroundService.exe
+Username : None
+------------------------------------------------------------
+PID : 21192
+Name : SystemSettings.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 21200
+Name : StartMenuExperienceHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 21276
+Name : NVDisplay.Container.exe
+Username : None
+------------------------------------------------------------
+PID : 21344
+Name : TextInputHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 21372
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 21764
+Name : elevation_service.exe
+Username : None
+------------------------------------------------------------
+PID : 21928
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 22364
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 22756
+Name : MoUsoCoreWorker.exe
+Username : None
+------------------------------------------------------------
+PID : 23012
+Name : powershell.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23200
+Name : explorer.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23212
+Name : OpenConsole.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23324
+Name : ChatGPT Classic.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23460
+Name : LockApp.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23468
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23564
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23584
+Name : AppVShNotify.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 23688
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 23800
+Name : RtkAudUService64.exe
+Username : None
+------------------------------------------------------------
+PID : 24000
+Name : UDClientService.exe
+Username : None
+------------------------------------------------------------
+PID : 24120
+Name : ShellExperienceHost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 24332
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 24504
+Name : MessagingPlugin.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 24532
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 24556
+Name : NahimicSvc32.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 24568
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 24700
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 24816
+Name : conhost.exe
+Username : None
+------------------------------------------------------------
+PID : 24856
+Name : audiodg.exe
+Username : None
+------------------------------------------------------------
+PID : 24884
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 24888
+Name : cmd.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 24960
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 25528
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 25580
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 25916
+Name : OpenConsole.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26096
+Name : unsecapp.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26300
+Name : SEGameTool.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26360
+Name : nahimicNotifSys.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26380
+Name : servicehost.exe
+Username : None
+------------------------------------------------------------
+PID : 26404
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26420
+Name : pet.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26476
+Name : mscopilot.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26520
+Name : FnHotkeyCapsLKNumLK.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26572
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26772
+Name : fontdrvhost.exe
+Username : None
+------------------------------------------------------------
+PID : 26892
+Name : Widgets.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 26904
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27092
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 27276
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27428
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27520
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27532
+Name : WindowsTerminal.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27560
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27760
+Name : ipf_helper.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 27928
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 28052
+Name : conhost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 28088
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 28152
+Name : RuntimeBroker.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 28208
+Name : powershell.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 28608
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29032
+Name : msedgewebview2.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29120
+Name : svchost.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29216
+Name : AdobeCollabSync.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29312
+Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.tmp
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29396
+Name : mscopilot.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29444
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 29932
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 30012
+Name : chrome.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 30084
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 30120
+Name : svchost.exe
+Username : None
+------------------------------------------------------------
+PID : 30192
+Name : mc-sustainability.exe
+Username : None
+------------------------------------------------------------
+PID : 30200
+Name : SearchIndexer.exe
+Username : None
+------------------------------------------------------------
+PID : 30232
+Name : mscopilot.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
+PID : 31708
+Name : Code.exe
+Username : VIRAJK\Viraj
+------------------------------------------------------------
