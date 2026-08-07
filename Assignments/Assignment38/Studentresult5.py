@@ -1,0 +1,105 @@
+import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+Border = "-"*30
+
+print(Border)
+print("Step 1 - Load the dataset")
+print(Border)
+
+DataPath = "student_performance_ml.csv"
+df = pd.read_csv(DataPath) 
+
+print("Dataset loaded Successfully")
+print("Intial entries from dataset are : ")
+print(df.head()) #first 5 rows 
+
+print(Border)
+
+print("Last entries from dataset are : ")
+print(df.tail()) #last 5 rows 
+
+print(Border)
+
+print("Shape of Dataset : ",df.shape)
+
+print(Border)
+
+print("\nTotal rows and columns:")
+print(df.shape)
+
+print(Border)
+
+print("\nColumn names:")
+print(df.columns)
+
+print(Border)
+
+print("\nData types:")
+print(df.dtypes)
+
+print(Border)
+
+print("Total number of students:")
+totalstu = len(df)
+print(totalstu)
+
+print(Border)
+
+result_count = df["FinalResult"].value_counts()
+print("Passed :", result_count[1])
+print("Failed :", result_count[0])
+
+print(Border)
+
+avg = df["StudyHours"].mean()
+print("average study hrs : ",avg)
+
+avg = df["Attendance"].mean()
+print("average attendance : ",avg)
+
+MaxScore = df["PreviousScore"].max()
+print("Max previous score : ", MaxScore)
+
+MaxSleephr = df["SleepHours"].max()
+print("Max sleep hrs : ", MaxSleephr)
+
+print(Border)
+print("Step 4 - Check Dataset Balance")
+print(Border)
+
+result_count = df["FinalResult"].value_counts()
+
+print("Passed Students :", result_count[1])
+print("Failed Students :", result_count[0])
+
+if result_count[1] == result_count[0]:
+    print("Dataset is perfectly balanced.")
+else:
+    print("Dataset is not perfectly balanced.")
+
+print(Border)
+print("Step 5 - Analysis of StudyHours and Attendance")
+print(Border)
+
+# Average StudyHours for Passed and Failed students
+pass_study = df[df["FinalResult"] == 1]["StudyHours"].mean()
+fail_study = df[df["FinalResult"] == 0]["StudyHours"].mean()
+
+print("Average StudyHours of Passed Students :", pass_study)
+print("Average StudyHours of Failed Students :", fail_study)
+
+# Average Attendance for Passed and Failed students
+pass_att = df[df["FinalResult"] == 1]["Attendance"].mean()
+fail_att = df[df["FinalResult"] == 0]["Attendance"].mean()
+
+print("Average Attendance of Passed Students :", pass_att)
+print("Average Attendance of Failed Students :", fail_att)
+
+print("\nObservations:")
+print("1. Students who study more hours generally have a higher chance of passing.")
+print("2. Students with better attendance tend to achieve better final results.")
+print("3. Lower study hours and attendance are associated with a higher chance of failure.")
+print("4. Both StudyHours and Attendance positively influence FinalResult.")
